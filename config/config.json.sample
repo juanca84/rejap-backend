@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "[USUARIO]",
+    "password": "[CONTRASEÑA]",
+    "database": "[BASE_DE_DATOS]",
+    "host": "[HOST]",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "[USUARIO]",
+    "password": "[CONTRASEÑA]",
+    "database": "[BASE_DE_DATOS]",
+    "host": "[HOST]",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "[USUARIO]",
+    "password": "[CONTRASEÑA]",
+    "database": "[BASE_DE_DATOS]",
+    "host": "[HOST]",
+    "dialect": "postgres"
+  }
+}
